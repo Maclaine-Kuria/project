@@ -1,0 +1,24 @@
+body {
+    background: rgb(131, 121, 121);
+  }
+  
+  h1 {
+    color: rgb(39, 35, 35);
+    font-size: 3em;
+    font-style: oblique;
+  }
+  
+  h2 {
+    color: rgb(20, 29, 20);
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+   .completed {
+    font-size: 12px;
+  }
+  
+  #tasks .completed {
+    background: #ccc;
+    text-decoration: underline;
+  }
